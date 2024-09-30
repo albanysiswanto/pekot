@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'pekot',
       home: Scaffold(
         body: Center(
-          child: Text('Pekot Demo'),
+          child: Text('Pekot (Peta Angkot)'),
         ),
       )
     );
